@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="petshop_background">@color/md_deep_orange_200</color>
+</resources>

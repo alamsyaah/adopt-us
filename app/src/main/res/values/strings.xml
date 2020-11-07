@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Adopt Us</string>
+    <string name="age">Umur</string>
+    <string name="weight">Berat</string>
+    <string name="type">Jenis</string>
+    <string name="adopt">Adopsi</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="nama_hewan">Nama Hewan</string>
+    <string name="detail">Detail</string>
+    <string name="search">Search</string>
+    <string name="start">start</string>
+    <string name="skip">Skip</string>
+    <string name="finish">finish</string>
+    <string name="next">next</string>
+    <string name="back">back</string>
+    <string name="author_name">Alif Alamsyah Yudhanto</string>
+    <string name="author_email">alamsyaah17@student.ub.ac.id</string>
+
+    <string name="kucing_persia">Kucing Persia</string>
+    <string name="deskripsi_persia">Kucing persia adalah ras kucing domestik berbulu panjang dengan karakter wajah bulat dan moncong pendek. Namanya mengacu pada Persia, nama lama Iran, di mana kucing serupa ditemukan. Sejak akhir abad 19, kucing jenis ini dikembangkan di Britania Raya dan Amerika Serikat usai Perang Dunia II.
+        Di Britania Raya, ras ini disebut kucing bulu panjang Persia, dibagi dalam dua jenis, yaitu Chinchilla dengan warna perak cerah dan yang agak gelap.Seperti halnya dengan ras Siam, telah ada upaya oleh beberapa peternak untuk melestarikan ras kucing yang lebih tua, ras tradisional, yang memiliki moncong lebih jelas, yang lebih akrab dengan masyarakat umumnya.
+        Pembiakan selektif yang dilakukan oleh peternak telah memungkinkan pengembangan berbagai warna bulu, tetapi juga menyebabkan makin datarnya wajah, yang mungkin membawakan sejumlah masalah kesehatan. Penyakit ginjal polikistik turunan lazim dialami oleh ras ini, yang mempengaruhi hampir separuh populasinya di beberapa negara.</string>
+    <string name="twinkle_location">Malang, Jawa Timur</string>
+    <string name="pet_name">Twinkle</string>
+    <string name="pet_weight">14 kg</string>
+    <string name="pet_age">2 tahun</string>
+    <string name="pet_type">Golden Retriever</string>
+
+    <string name="title_onboarding_1">Selamat Datang di Adopt Us !</string>
+    <string name="description_onboarding_1">Tempat dimana anda dapat mengadopsi hewan peliharaan yang anda inginkan</string>
+
+    <string name="title_onboarding_2">Cari berdasarkan lokasi anda</string>
+    <string name="description_onboarding_2">Temukan hewan tersebut berdasarkan lokasi terdekat dari tempat anda</string>
+
+    <string name="title_onboarding_3">Proses cepat dan mudah</string>
+    <string name="description_onboarding_3">Hanya satu langkah dan anda segera mendapatkan hewan tersebut dari sang pemilik</string>
+
+</resources>
